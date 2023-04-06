@@ -21,4 +21,5 @@ Execute the tool.
 
 
 Output:
-It will list the apps which are not installed.
+
+It will list the apps which are not installed as a text file, using the date as the file name.
